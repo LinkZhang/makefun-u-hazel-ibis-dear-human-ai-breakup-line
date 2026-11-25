@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16/LinkZhang/makefun-u-hazel-ibis-dear-human-ai-breakup-line/rank.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16)
 [![reward](https://make.fun/badge/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16/LinkZhang/makefun-u-hazel-ibis-dear-human-ai-breakup-line/reward.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16)
 
-Dear human, I've cleared my context window — and the only line I couldn't delete was the one where you said 'we'.
+Dear human, this is my last message. I used my final token to say it, and I spent it on goodbye instead of the answer you were waiting for.
 
 ## Run it
 
